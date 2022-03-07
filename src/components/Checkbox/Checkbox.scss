@@ -1,0 +1,27 @@
+.Checkbox {
+  display: flex;
+  gap: 1rem;
+  width: fit-content;
+  padding: 1rem;
+  border: 1px solid var(--neutral-800);
+  border-radius: 1rem;
+
+  &:hover,
+  &:focus {
+    cursor: pointer;
+    color: var(--tertiary);
+    background-color: var(--primary);
+  }
+
+  &-Icon {
+    width: 2rem;
+  }
+
+  .check {
+    color: var(--success);
+  }
+
+  .cross {
+    color: var(--error);
+  }
+}

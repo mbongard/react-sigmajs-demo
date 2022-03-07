@@ -1,0 +1,10 @@
+.Header {
+  display: flex;
+  justify-content: center;
+  margin-top: 5rem;
+
+  &-Title {
+    font-weight: normal;
+    font-size: 3.5rem;
+  }
+}

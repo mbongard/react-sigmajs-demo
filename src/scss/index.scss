@@ -1,0 +1,17 @@
+@import 'mixins';
+@import 'reset';
+@import 'settings';
+@import 'global';
+
+html {
+  font-size: 62.5%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 1.8rem;
+  color: var(--neutral-800);
+}

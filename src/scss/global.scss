@@ -1,0 +1,40 @@
+h2 {
+  font-weight: 400;
+  font-size: 36pt;
+}
+
+h3 {
+  margin: 24px 0px;
+  font-weight: 400;
+  font-size: 24pt;
+}
+
+h4 {
+  font-size: 18pt;
+  font-weight: 500;
+}
+
+h5 {
+  font-weight: 500;
+}
+
+code {
+  font-family: 'Space Mono', monospace;
+}
+
+strong {
+  font-weight: 600;
+}
+
+p {
+  line-height: 1.4em;
+}
+
+a {
+  color: var(--primary);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--secondary);
+}

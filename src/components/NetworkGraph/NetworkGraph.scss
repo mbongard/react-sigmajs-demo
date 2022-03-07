@@ -1,0 +1,13 @@
+.NetworkGraph {
+  width: 80vw;
+  flex-grow: 1;
+  margin: 1rem auto 10rem auto;
+  padding: 0;
+  overflow: hidden;
+  border: 1px solid var(--neutral-800);
+  border-radius: 1rem;
+
+  & > canvas {
+    border-radius: 1rem;
+  }
+}
