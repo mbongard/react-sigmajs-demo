@@ -19,8 +19,12 @@ The image below shows a screenshot of the application.
 
 ## Technology Stack
 
-- [React](https://reactjs.org/)
-- [Typescript](https://www.typescriptlang.org/)
-- [SCSS](https://sass-lang.com/)
-- [ESLint](https://eslint.org/)
-- [Prettier](https://prettier.io/)
+<img alt="React Logo" width="30px" src="img/react-logo.svg" /> &nbsp; [React](https://reactjs.org/)
+
+<img alt="Typescript Logo" width="30px" src="img/typescript-logo.svg" /> &nbsp; [Typescript](https://www.typescriptlang.org/)
+
+<img alt="Sass Logo" width="30px" src="img/sass-logo.png" /> &nbsp; [SCSS](https://sass-lang.com/)
+
+<img alt="ESLint Logo" width="30px" src="img/eslint-logo.png" /> &nbsp; [ESLint](https://eslint.org/)
+
+<img alt="Prettier Logo" width="30px" src="img/prettier-logo.png" /> &nbsp; [Prettier](https://prettier.io/)
