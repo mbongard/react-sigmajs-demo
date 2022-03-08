@@ -15,7 +15,7 @@ $ yarn start
 
 The image below shows a screenshot of the application.
 
-![Screenshot of SigmaJS Demo](/img/screenshot.png)
+![Screenshot of SigmaJS Demo](/img/demo-screenshot.png)
 
 ## Technology Stack
 
