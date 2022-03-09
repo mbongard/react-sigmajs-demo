@@ -11,11 +11,9 @@ $ yarn
 $ yarn start
 ```
 
-## Screenshot
+## Live Demo
 
-The image below shows a screenshot of the application.
-
-![Screenshot of SigmaJS Demo](/img/demo-screenshot.png)
+A live demo can be found at [react-sigmajs-demo.bongard.dev](https://react-sigmajs-demo.bongard.dev/).
 
 ## Technology Stack
 
